@@ -1,13 +1,16 @@
 #Project Instruction
+
 This is a group project. Our group consists of 'Hao Wu(me)', 'Yansong Wang', 'Lingyu Guo' and 'Yiting Jia'. We plan to use finger to control puppet's finger, and each finger will triger different music.
 I am mainly responsible for 'coding'， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
 
 #Photo Recording
+
 ![Recording1](https://user-images.githubusercontent.com/91842476/143960686-49359c61-d44f-49d7-ae11-dbde6e512bd6.JPG)
 ![Recording2](https://user-images.githubusercontent.com/91842476/143960696-41aa121f-ccfe-41c0-ad37-e351e6d314ad.JPG)
 ![Recording3](https://user-images.githubusercontent.com/91842476/143960704-01b69665-2ddf-4921-98ae-97bf0498a011.JPG)
 
 #Code
+
 ···c
 #include "pitches.h"
 
