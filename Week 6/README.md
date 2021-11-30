@@ -6,8 +6,8 @@
 * [Final Effect](#final-effect)
 
 ## Project Instruction
-This is a group project. Our group consists of 'Hao Wu(me)', 'Yansong Wang', 'Lingyu Guo' and 'Yiting Jia'. We plan to use finger to control puppet's finger, and each finger will triger different music.
-I am mainly responsible for 'coding'， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
+This is a group project. Our group consists of `Hao Wu(me)`, `Yansong Wang`, `Lingyu Guo` and `Yiting Jia`. We plan to use finger to control puppet's finger, and each finger will triger different music.
+I am mainly responsible for `coding`， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
 
 ## Circuit Diagram
 <img width="1421" alt="Tinkercad" src="https://user-images.githubusercontent.com/91842476/143964425-d173fd3a-ad54-4556-bf9d-59df3285c318.png">
