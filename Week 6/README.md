@@ -1,11 +1,11 @@
 ## Table of Contents
-* [Project Instruction](#project-instruction)
+* [Project Introduction](#project-instruction)
 * [Circuit Diagram](#circuit-diagram)
 * [Photo Recording](#photo-recording)
 * [Code](#code)
 * [Final Effect](#final-effect)
 
-## Project Instruction
+## Project Introduction
 This is a group project. Our group consists of `Hao Wu(me)`, `Yansong Wang`, `Lingyu Guo` and `Yiting Jia`. We plan to use finger to control puppet's finger, and each finger will triger different music.
 I am mainly responsible for `coding`， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
 
