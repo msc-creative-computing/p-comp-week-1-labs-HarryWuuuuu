@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Project Instruction](#project-instruction)
-* [Photo Recording](*photo-recording)
-* [Code](*code)
+* [Photo Recording](#photo-recording)
+* [Code](#code)
 
 ## Project Instruction
 This is a group project. Our group consists of 'Hao Wu(me)', 'Yansong Wang', 'Lingyu Guo' and 'Yiting Jia'. We plan to use finger to control puppet's finger, and each finger will triger different music.
