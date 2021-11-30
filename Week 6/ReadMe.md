@@ -1,5 +1,5 @@
 ## Table of Contents
-* [Project Instruction](#project instruction)
+* [Project Instruction](#general-information)
 * [Photo Recording](*photo recording)
 * [Code](*code)
 
@@ -13,7 +13,7 @@ I am mainly responsible for 'coding'， and assist in assembling the pressure se
 ![Recording3](https://user-images.githubusercontent.com/91842476/143960704-01b69665-2ddf-4921-98ae-97bf0498a011.JPG)
 
 ## Code
-```
+```c
 #include "pitches.h"
 //set chord
 int melody0[] = {
