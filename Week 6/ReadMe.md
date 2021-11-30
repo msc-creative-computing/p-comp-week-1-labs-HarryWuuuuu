@@ -2,6 +2,7 @@
 * [Project Instruction](#project-instruction)
 * [Photo Recording](#photo-recording)
 * [Code](#code)
+* [Final Effect](#final-effect)
 
 ## Project Instruction
 This is a group project. Our group consists of 'Hao Wu(me)', 'Yansong Wang', 'Lingyu Guo' and 'Yiting Jia'. We plan to use finger to control puppet's finger, and each finger will triger different music.
@@ -149,3 +150,5 @@ void loop() {
     delay(30);
 } 
 ```
+## Final Effect
+https://youtu.be/G7_KSMHOJaE
