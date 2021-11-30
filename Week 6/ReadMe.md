@@ -1,19 +1,20 @@
-#Project Instruction
+## Table of Contents
+* [Project Instruction](#Project Instruction)
+* [Photo Recording](*Photo Recording)
+* [Code](*Code)
 
+## Project Instruction
 This is a group project. Our group consists of 'Hao Wu(me)', 'Yansong Wang', 'Lingyu Guo' and 'Yiting Jia'. We plan to use finger to control puppet's finger, and each finger will triger different music.
 I am mainly responsible for 'coding'， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
 
-#Photo Recording
-
+## Photo Recording
 ![Recording1](https://user-images.githubusercontent.com/91842476/143960686-49359c61-d44f-49d7-ae11-dbde6e512bd6.JPG)
 ![Recording2](https://user-images.githubusercontent.com/91842476/143960696-41aa121f-ccfe-41c0-ad37-e351e6d314ad.JPG)
 ![Recording3](https://user-images.githubusercontent.com/91842476/143960704-01b69665-2ddf-4921-98ae-97bf0498a011.JPG)
 
-#Code
-
-···c
+## Code
+```
 #include "pitches.h"
-
 //set chord
 int melody0[] = {
   NOTE_C4, NOTE_G3, NOTE_G3, NOTE_A3, NOTE_G3, 0, NOTE_B3, NOTE_C4
@@ -27,18 +28,15 @@ int melody2[] = {
 int melody3[] = {
   NOTE_E6, NOTE_F6, NOTE_C7, NOTE_E7, NOTE_F7, NOTE_B7, NOTE_C8, NOTE_CS8
 };
-
 //set duration of each tone
 int noteDurations[] = {
   4, 8, 7, 3, 1, 6, 9, 2
 };
-
 //set pressure sensor pin
 int pin0 = A0;
 int pin1 = A1;
 int pin2 = A2;
 int pin3 = A3;
-
 //initialize press sensor value
 int sensorValue0 = 0;
 int sensorValue1 = 0;
@@ -150,4 +148,4 @@ void loop() {
     
     delay(30);
 } 
-···
+```
