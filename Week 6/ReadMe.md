@@ -1,6 +1,6 @@
 ## Table of Contents
-* [Project Instruction](#general-information)
-* [Photo Recording](*screenshot)
+* [Project Instruction](#project-instruction)
+* [Photo Recording](*photo-recording)
 * [Code](*code)
 
 ## Project Instruction
