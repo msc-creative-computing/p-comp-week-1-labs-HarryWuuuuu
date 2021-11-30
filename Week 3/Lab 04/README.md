@@ -6,8 +6,10 @@
 * [Final Effect](#final-effect)
 
 ## Project Introduction
+I use led and LDR to build a feedback system. When the led becomes dark, ldr will trigger and make the led gradually brighter. When the led becomes brighter, the ldr will trigger again to make the led dim again. This cycle continues.
 
 ## Circuit Diagram
+![Tinkercad](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/d3cab25bbbffe9df5db6c6d0d524c546159b88ca/Week%203/Lab%2004/Tinkercad.png)
 
 ## Photo Recording
 ![Recording1](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/717da91badcab923e151406bad2cbc8d96ca650e/Week%203/Lab%2004/Feedback%20System.png)
