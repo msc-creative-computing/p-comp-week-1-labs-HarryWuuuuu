@@ -16,6 +16,7 @@ I am mainly responsible for `coding`， and assist in assembling the pressure se
 ![Recording1](https://user-images.githubusercontent.com/91842476/143960686-49359c61-d44f-49d7-ae11-dbde6e512bd6.JPG)
 ![Recording2](https://user-images.githubusercontent.com/91842476/143960696-41aa121f-ccfe-41c0-ad37-e351e6d314ad.JPG)
 ![Recording3](https://user-images.githubusercontent.com/91842476/143960704-01b69665-2ddf-4921-98ae-97bf0498a011.JPG)
+![Uploading Recording4.JPG…]()
 
 ## Code
 ```c
