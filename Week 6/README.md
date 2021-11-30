@@ -13,10 +13,10 @@ I am mainly responsible for `coding`， and assist in assembling the pressure se
 <img width="1421" alt="Tinkercad" src="https://user-images.githubusercontent.com/91842476/143964425-d173fd3a-ad54-4556-bf9d-59df3285c318.png">
 
 ## Photo Recording
-https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording1.JPG
-https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording2.JPG
-https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording3.JPG
-https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording4.JPG
+![Recording1](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording1.JPG)
+![Recording2](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording2.JPG)
+![Recording3](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording3.JPG)
+![Recording4](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording4.JPG)
 
 ## Code
 ```c
