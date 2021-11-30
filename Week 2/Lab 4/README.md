@@ -8,7 +8,7 @@
 ## Project Introduction
 Due to the inspiration of Squid Game, I design an "puppet" to detect human movement. I install the PIR move sensor, led and buzzer on the puppet.
 ### Game Rules
-Players need to stop their movement before the PIR sensor detects them. If they are detected, the led will light and buzzer will sound.
+Players need to stop their movement before the PIR sensor detects them. If they are detected, the led will light and buzzer will sound. (But it seems that I'm always detected by sensor.)
 
 ## Circuit Diagram
 ![Tinkercad](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/69bc29c0c00ad343c35397aadeaa887dd16e48a6/Week%202/Lab%204/Tinkercad.png
