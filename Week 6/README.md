@@ -10,7 +10,7 @@ This is a group project. Our group consists of `Hao Wu(me)`, `Yansong Wang`, `Li
 I am mainly responsible for `coding`， and assist in assembling the pressure sensor and designing the arrangement of the circuit.
 
 ## Circuit Diagram
-<img width="1421" alt="Tinkercad" src="https://user-images.githubusercontent.com/91842476/143964425-d173fd3a-ad54-4556-bf9d-59df3285c318.png">
+![Tinkercad](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Tinkercad.PNG)
 
 ## Photo Recording
 ![Recording1](https://github.com/msc-creative-computing/p-comp-week-1-labs-HarryWuuuuu/blob/869fb305c350a5c8e035ee38d742154022bec7a6/Week%206/Recording1.JPG)
