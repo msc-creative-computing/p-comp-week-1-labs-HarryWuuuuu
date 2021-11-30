@@ -1,5 +1,5 @@
 ## Table of Contents
-* [Project Instruction](#project-introduction)
+* [Project Introduction](#project-introduction)
 * [Circuit Diagram](#circuit-diagram)
 * [Photo Recording](#photo-recording)
 * [Code](#code)
